@@ -1,0 +1,4 @@
+config\BeansConfig.class
+controller\HomeController.class
+controller\Values.class
+config\WebIntializer.class
